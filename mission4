@@ -1,0 +1,9 @@
+void main() {
+  var score = 7;
+  print(score); 
+
+  score = 8;
+  score = 9;
+  score = 10;
+  print(score); 
+}
