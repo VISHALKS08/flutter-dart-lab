@@ -1,1 +1,5 @@
-
+void main() {
+  print("WELCOME TO I MCA");
+  print("26PCA101");
+  print("GOOD MORNING!!!");
+}
