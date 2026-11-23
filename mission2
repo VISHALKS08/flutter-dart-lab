@@ -1,0 +1,10 @@
+void main() {
+  var item1 = 'ICECREAM', qty1 = 10;
+  var item2 = 'SWEETS', qty2 = 100;
+  var item3 = 'CHOCOLATES', qty3 = 150;
+
+  print("TINY INVENTORY");
+  print("$item1 $qty1");
+  print("$item2 $qty2");
+  print("$item3 $qty3");
+}
