@@ -1,0 +1,9 @@
+void main() {
+  int snacks = 15;
+  int price = 5;
+  int sharing = 6;
+  int totalprice = snacks*price;
+  int leftover = snacks%sharing;
+  print("TOTAL PRICE: $totalprice");
+  print("LEFTOVER: $leftover");
+}
