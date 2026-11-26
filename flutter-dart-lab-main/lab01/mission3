@@ -1,0 +1,10 @@
+void main() {
+  String name = "ABC SHOP";
+  int qty = 1000;
+  double price = 10.50;
+  bool availability = false;
+  print(name);
+  print(qty);
+  print(price);
+  print(availability);
+}

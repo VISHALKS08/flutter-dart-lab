@@ -1,0 +1,7 @@
+void main() {
+  final student = "RAJESH JERALD";
+  const course = "SJC";
+  print("----ID CARD----");
+  print("$student");
+  print("$course");
+}
