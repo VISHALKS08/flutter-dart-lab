@@ -1,0 +1,6 @@
+void main() {
+  String? nickname = null;
+  String? middlename = null;
+  print(nickname);
+  print(middlename);
+}
