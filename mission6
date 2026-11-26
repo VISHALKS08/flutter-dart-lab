@@ -1,0 +1,9 @@
+void main() {
+  num box = 15;
+  print(box.runtimeType);
+  box = 10.5;
+  dynamic item = "MYSTERY BOX";
+  print(box.runtimeType);
+  print(item.runtimeType);
+  print(item);
+}
