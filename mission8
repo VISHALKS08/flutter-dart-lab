@@ -1,0 +1,12 @@
+void main() {
+  String? nickname;
+  int? bonusmark;
+  print("BEFORE");
+  print(nickname);
+  print(bonusmark);
+  nickname = "CM RAJESH";
+  bonusmark = 100;
+  print("AFTER");
+  print(nickname);
+  print(bonusmark);
+}
