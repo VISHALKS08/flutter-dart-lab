@@ -1,0 +1,9 @@
+void main() {
+  String name = "ALWIN";
+  int age = 21;
+  String dept = "CS";
+  print("------WELCOME GREETINGS------");
+  print("NAME: $name");
+  print("AGE: $age");
+  print("DEPARTMENT: $dept");
+}
